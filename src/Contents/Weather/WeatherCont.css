@@ -1,0 +1,26 @@
+.weather-cont{
+  background: white;
+  padding: 10px;
+}
+
+.weather{
+    background: white;
+}
+
+.search-city-input {
+    background: white;
+    padding: .7rem 1.5rem;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    border: 1px solid;
+}
+
+.button-search {
+  margin-left: 10px;
+}
+
+.cur-date-text {
+  padding: 10px;
+  font-size: 1.2rem; 
+  font-weight: bold;
+}
