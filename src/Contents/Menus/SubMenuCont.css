@@ -1,14 +1,13 @@
 .sub-menu-cont{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background: #09f;
     height: 40px;    
     background-size: auto 100%;    
 }    
 
 .subnav {    
-    display: flex;
-   /* flex-direction: row;        */
+    display: block;
 }
 
 .subnav .subnav-menu .subnav-menu-item {

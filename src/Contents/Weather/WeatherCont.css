@@ -1,6 +1,10 @@
 .weather-cont{
   background: white;
   padding: 10px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  top: 0;
 }
 
 .weather{
